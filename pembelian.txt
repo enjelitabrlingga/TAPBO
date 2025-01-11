@@ -1,0 +1,60 @@
+Pesanan Anda:
+- Tahu Tempe Goreng (Rp 14000.0)
+- Keripik Pisang (Rp 8000.0)
+- Bruschetta Tomat (Rp 18000.0)
+Total Harga: Rp 40000.0
+Diskon: Rp 0.0
+Harga Akhir: Rp 40000.0
+=====================================
+Pesanan Anda:
+- Es Teh Manis (Rp 10000.0)
+- Cheesecake (Rp 35000.0)
+- Spaghetti Bolognese (Rp 30000.0)
+- Mojito Non-Alcoholic (Rp 40000.0)
+Total: Rp 115000
+Diskon: Rp 11500
+Harga Akhir: Rp 103500
+Metode Pembayaran: ShopeePay
+========================================
+Pesanan Anda:
+- Es Kopi Susu (Rp 20000.0)
+- Pancake Madu (Rp 22000.0)
+- Cappuccino (Rp 27000.0)
+Total: Rp 69000
+Diskon: Rp 0
+Harga Akhir: Rp 69000
+Metode Pembayaran: Transfer Bank
+
+
+========================================
+Isi Keranjang:
+Nasi Goreng - Rp 25000.0
+Burger - Rp 35000.0
+Smoothie Mangga - Rp 25000.0
+
+Diskon: Rp 0.0
+Total Pembayaran: Rp 85000.0
+========================================
+=== Struk Pembelian ===
+Nasi Goreng (Makanan) - Rp 25000.0
+Smoothie Mangga (Minuman) - Rp 25000.0
+====================
+Total: Rp 50000.0
+Metode Pembayaran: Tunai
+========================================
+Struk Pembelian:
+Nasi Goreng - Rp 25000.0
+Pizza Margherita - Rp 45000.0
+Lemon Tea - Rp 12000.0
+Total: Rp 82000.0
+Metode Pembayaran: QRIS
+========================================
+Struk Pembelian:
+Es Jeruk - Rp 12000.0
+Steak Daging - Rp 60000.0
+Nasi Goreng - Rp 25000.0
+Smoothie Mangga - Rp 25000.0
+Dimsum Ayam - Rp 20000.0
+Total: Rp 142000.0
+Metode Pembayaran: Tunai
+========================================
