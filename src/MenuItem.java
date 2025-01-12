@@ -1,4 +1,4 @@
-public abstract class MenuItem {
+abstract class MenuItem {
     private String name;
     private double price;
 
@@ -13,5 +13,10 @@ public abstract class MenuItem {
 
     public double getPrice() {
         return price;
+    }
+
+    @Override
+    public String toString() {
+        return name + " (Rp " + price + ")";
     }
 }
