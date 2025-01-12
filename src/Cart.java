@@ -1,23 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Cart {
-    private List<MenuItem> items;
+class Cart {
+    private List<MenuItem> items = new ArrayList<>();
 
-    public Cart() {
-        this.items = new ArrayList<>();
-    }
-
-    public void add(MenuItem item) {
+    public void addItem(MenuItem item) {
         items.add(item);
-    }
-
-    public void clear() {
-        items.clear();
-    }
-
-    public boolean isEmpty() {
-        return items.isEmpty();
     }
 
     public List<MenuItem> getItems() {
@@ -30,5 +18,9 @@ public class Cart {
             total += item.getPrice();
         }
         return total;
+    }
+
+    public void clear() {
+        items.clear();
     }
 }
